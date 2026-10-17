@@ -1,0 +1,15 @@
+{
+  "name": "connectmachine",
+  "description": "ConnectMachine plugins for Claude Code and Cowork",
+  "owner": {
+    "name": "Connect Machine Inc.",
+    "email": "hi@connectmachine.ai"
+  },
+  "plugins": [
+    {
+      "name": "connectmachine",
+      "source": "./",
+      "description": "Find, save and follow up with your professional contacts from Claude"
+    }
+  ]
+}

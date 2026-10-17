@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "connectmachine",
+  "displayName": "ConnectMachine",
+  "version": "1.0.0",
+  "description": "Your professional network in Claude: find people by how you remember them, save contacts from the conversation, and write follow-ups with the context of where you met.",
+  "author": {
+    "name": "Connect Machine Inc.",
+    "email": "hi@connectmachine.ai",
+    "url": "https://www.connectmachine.ai"
+  },
+  "homepage": "https://www.connectmachine.ai/docs/mcp/",
+  "repository": "https://github.com/connectmachine/claude-plugin",
+  "license": "MIT",
+  "keywords": ["contacts", "crm", "networking", "business-cards", "follow-up", "mcp"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://www.connectmachine.ai/docs/mcp/",
+  "supportUrl": "https://github.com/connectmachine/claude-plugin/issues",
+  "privacyPolicyUrl": "https://connectmachine.ai/legal/privacy",
+  "termsOfServiceUrl": "https://www.connectmachine.ai/legal/terms-of-service"
+}
