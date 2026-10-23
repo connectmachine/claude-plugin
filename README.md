@@ -1,5 +1,7 @@
 # ConnectMachine plugin for Claude
 
+[![Security: A — Skills Directory](https://www.skillsdirectory.com/api/skills/connectmachine-connectmachine/badge)](https://www.skillsdirectory.com/skills/connectmachine-connectmachine)
+
 Your professional network in Claude Code and Cowork. Find people by how you remember them, save contacts from the conversation, and write follow-ups with the context of where you met.
 
 The plugin bundles the hosted [ConnectMachine MCP server](https://github.com/connectmachine/mcp-server) (`https://mcp.connectmachine.ai/mcp`) with skills that show Claude how to use it.
