@@ -1,0 +1,10 @@
+{
+  "id": "connectmachine",
+  "name": "ConnectMachine",
+  "description": "Your professional network in your AI agent: find people by how you remember them, save contacts from the conversation, and write follow-ups with the context of where you met.",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
